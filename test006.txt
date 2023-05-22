@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfg
+=======
+ghtgy
+>>>>>>> 5c0cdf57ffbf0c73863a0b6941781248f28ae958
