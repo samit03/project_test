@@ -1,1 +1,1 @@
-remote test
+pc test
