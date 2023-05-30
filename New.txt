@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test1 pokjhbvc
 =======
 test1 dfghjkl;
 >>>>>>> origin/develop
+=======
+test1
+>>>>>>> parent of 0984db5 (Update New.txt)
